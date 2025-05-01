@@ -55,41 +55,48 @@ I'm a Full Stack Developer / Site Reliability Engineer (SRE) with a strong backg
 
 - **OS[Samurai] Security Platform**  
   OS[Samurai] is a comprehensive security scanning platform that helps identify vulnerabilities in your code and infrastructure. The platform supports various types of scanning, including Static Application Security Testing (SAST), Software Composition Analysis (SCA), Dynamic Application Security Testing (DAST), and infrastructure analysis. Features role-based access control (RBAC) and an AI agent for report analysis.
+
   <details>
   <summary>View Screenshots</summary>
-  ![Home Page](assets/OsSamurai/homepage.png)
-  ![Detect Languages](assets/OsSamurai/detect-languages.png)
-  ![Reports Page](assets/OsSamurai/ReportsPage.png)
-  ![Project Page](assets/OsSamurai/SecurityHub.png)
-  ![Report1](assets/OsSamurai/Report1.png)
-  ![Report2](assets/OsSamurai/Report2.png)
-  ![AI Report](assets/OsSamurai/aireport1.png)
-  ![AI Report2](assets/OsSamurai/aireport2.png)
-  ![Theme](assets/OsSamurai/Theme.png)
-  ![RBAC](assets/OsSamurai/Rbac.png)
+    
+  ![Home](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/homepage.png?raw=true)  
+  ![Detect Languages](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/detect-languages.png)
+  ![Reports Page](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/ReportsPage.png)
+  ![Project Page](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/SecurityHub.png)
+  ![Report1](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/Report1.png)
+  ![Report2](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/Report2.png)
+  ![AI Report](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/aireport1.png)
+  ![AI Report2](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/aireport2.png)
+  ![Theme](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/Theme.png)
+  ![RBAC](https://github.com/Greene1337/Greene1337/blob/main/assets/OsSamurai/Rbac.png)
+    
   </details>
 
 - **OS[Samurai] AI**  
   An AI-powered agent that scans security reports, performs deduplication, conducts analysis, and delivers actionable recommendations.  
 
 - **MovieForFriends**
-  A social movie platform inspired by IMDb, tailored for friends to rate, review, and discuss movies. Includes user profiles, movie suggestions, ratings, and more. Actively maintained with regular updates—check the repo for the latest features!  
+  A social movie platform inspired by IMDb, tailored for friends to rate, review, and discuss movies. Includes user profiles, movie suggestions, ratings, and more.
   <details>
   <summary>View Screenshots</summary>
+    
   ![Home Page](assets/MovieForFriends/HomePage.png)
   ![Movie Profile](assets/MovieForFriends/MovieProfile.png)
   ![Suggestions](assets/MovieForFriends/Suggestions.png)
   ![User Profile](assets/MovieForFriends/UserProfile.png)
   ![Themes](assets/MovieForFriends/Themes.png)
+  
   </details>
 
 - **FileHorizon**
   A self-hosted alternative to Google Drive, designed for secure file storage and sharing.  
   <details>
   <summary>View Screenshots</summary>
+    
   ![Home Page](assets/FileHorizon/HomePage.png)
   ![Limits](assets/FileHorizon/Limits.png)
   ![Backups](assets/FileHorizon/Backups.png)
+  
   </details>
 
 Don’t hesitate to reach out if you’d like to collaborate or chat with me!
